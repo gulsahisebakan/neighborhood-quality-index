@@ -108,15 +108,5 @@ neighborhood-quality-index/
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Connect to real public datasets (Census, EPA, crime APIs)
-- [ ] Add more cities beyond Chicago
-- [ ] Include rent price trends over time
-- [ ] Add a "Find My Perfect Neighborhood" quiz feature
-- [ ] Deploy to Streamlit Cloud
-
----
-
 ## 📄 License
 MIT License
